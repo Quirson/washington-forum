@@ -5,6 +5,7 @@
   Built in Mozambique 🇲🇿 — For the World 🌍
   Quirson Fernando Ngale
 ████████████████████████████████████████████████████████████████████████████████████
+⭐ Star the repositories if you like the project!
 -->
 
 <!-- HEADER -->
@@ -102,8 +103,17 @@
 | 🐳 | **Docker Deployment** | Full stack up in one command — `docker compose up` |
 | ⚡ | **Production Ready** | Layered architecture, tested, scalable from day one |
 
+
+
+🌍 Why this project?
+
+This project was created to provide a scalable modern forum platform for gaming and online communities.
+
 </div>
 
+🤝 Contributing
+
+Pull Requests are welcome!
 ---
 
 ## `> cat ARCHITECTURE.md`
